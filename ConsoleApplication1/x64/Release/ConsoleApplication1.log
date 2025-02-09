@@ -1,0 +1,120 @@
+﻿  sim_main.cpp
+C:\linux_temp\verilator\include\verilated_funcs.h(1590,74): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1596,74): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1602,55): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1631,74): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1637,74): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1643,74): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1673,55): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1687,33): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1687,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1687,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1694,33): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1694,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1694,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1701,33): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1701,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1701,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1735,33): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1735,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(1735,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2209,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2216,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2223,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2230,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2237,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2244,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2251,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2258,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2258,75): warning C4267: 'argument': conversion from 'size_t' to 'IData', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2265,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2265,75): warning C4267: 'argument': conversion from 'size_t' to 'IData', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2272,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2272,75): warning C4267: 'argument': conversion from 'size_t' to 'IData', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2279,44): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_funcs.h(2279,75): warning C4267: 'argument': conversion from 'size_t' to 'IData', possible loss of data
+  (compiling source file '../sim_main.cpp')
+  
+C:\linux_temp\verilator\include\verilated_types.h(549,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../sim_main.cpp')
+      C:\linux_temp\verilator\include\verilated_types.h(549,43):
+      the template instantiation context (the oldest one first) is
+          C:\linux_temp\verilator\include\verilated_funcs.h(1673,28):
+          see reference to class template instantiation 'VlQueue<QData,0>' being compiled
+          C:\linux_temp\verilator\include\verilated_types.h(549,9):
+          while compiling class template member function 'int VlQueue<QData,0>::size(void) const'
+              C:\linux_temp\verilator\include\verilated_funcs.h(1673,5):
+              see the first reference to 'VlQueue<QData,0>::size' in 'VL_PACK_QQ'
+  
+  Generating code
+  1 of 3082 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\linux_temp\sim_x16\x64\Release\ConsoleApplication1.exe

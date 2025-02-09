@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\imgui">
+      <UniqueIdentifier>{64a47a5c-7f70-4bb2-b587-071bc20c20ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\verilator">
+      <UniqueIdentifier>{173cc91f-b2b7-4505-81f1-6cd0a6996694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Vx16">
+      <UniqueIdentifier>{0862a040-73ce-44d9-887a-f8c63a9d9cc6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\linux_temp\imgui\imgui.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\linux_temp\imgui\imgui_demo.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\linux_temp\imgui\imgui_draw.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui\backends\imgui_impl_dx11.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui\backends\imgui_impl_win32.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui\imgui_tables.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\linux_temp\imgui\imgui_widgets.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\sim_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\verilator\include\verilated.cpp">
+      <Filter>Source Files\verilator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\verilator\include\verilated_save.cpp">
+      <Filter>Source Files\verilator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\verilator\include\verilated_threads.cpp">
+      <Filter>Source Files\verilator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__DepSet_h85e20ccd__0.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__DepSet_h85e20ccd__0__Slow.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__DepSet_h30238828__0.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__DepSet_h30238828__0__Slow.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__DepSet_h30238828__1.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__DepSet_h30238828__1__Slow.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main___024root__Slow.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main__ConstPool_0.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main__ConstPool_1.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main__ConstPool_2.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main__ConstPool_3.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\out\Vx16_main__Syms.cpp">
+      <Filter>Source Files\Vx16</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\linux_temp\imgui\ui_chip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\ui_m6502.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\ui_util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\_m6502_decoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\imconfig.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\imgui.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\imgui_internal.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\linux_temp\imgui\imgui_memory_editor.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated_config.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated_save.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated_types.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilatedos.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated_syms.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated_trace.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\verilator\include\verilated_threads.h">
+      <Filter>Source Files\verilator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\out\Vx16_main.h">
+      <Filter>Source Files\Vx16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\out\Vx16_main___024root.h">
+      <Filter>Source Files\Vx16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\out\Vx16_main__pch.h">
+      <Filter>Source Files\Vx16</Filter>
+    </ClInclude>
+    <ClInclude Include="..\out\Vx16_main__Syms.h">
+      <Filter>Source Files\Vx16</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
